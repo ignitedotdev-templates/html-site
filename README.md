@@ -4,13 +4,13 @@
 
 ```bash
 # root directory
-src or ./
+/
 
 # build command
-npm install && npm run generate
+npm run build
 
 # build directory
-dist
+/
 ```
 
-## Setup
+
