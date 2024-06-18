@@ -9,7 +9,7 @@
 # build command
 npm run build
 
-# build directory
+# publish directory
 /
 ```
 
