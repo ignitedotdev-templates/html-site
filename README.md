@@ -6,9 +6,6 @@
 # root directory
 /
 
-# build command
-npm run build
-
 # publish directory
 /
 ```
