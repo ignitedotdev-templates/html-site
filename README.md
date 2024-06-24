@@ -7,7 +7,7 @@
 /
 
 # publish directory
-/
+optional or left empty
 ```
 
 
